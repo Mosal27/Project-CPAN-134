@@ -1,0 +1,43 @@
+
+  body {
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
+
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px 0;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  nav {
+    background-color: blue;
+    font-size: 18px;
+    padding: 20px;
+  }
+  
+
+  div {
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 20px;
+    color: white;
+    font-size: 24px;
+    background-color: blue;
+  }
